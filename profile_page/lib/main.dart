@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
               ],
               child: MaterialApp(
                 debugShowCheckedModeBanner: false,
-                title: 'Tic Tac Toe',
+                title: 'Profile Page ',
                 theme: ThemeData(
                   brightness: Brightness.light,
                   appBarTheme: const AppBarTheme(color: Colors.teal),
